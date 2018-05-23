@@ -1,0 +1,8 @@
+body {
+    background-color: black;
+}
+
+#drawing-pane {
+    border: 1px solid red;
+    transform: rotateX(180deg);
+}
